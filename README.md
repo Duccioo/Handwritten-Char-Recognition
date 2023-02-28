@@ -17,6 +17,8 @@ The original text of the Assignment:
 
 > 4. discuss the difference between 1-hot encoding and binary encoding
 
+## Report
+[Link to the Report](https://duccioo.github.io/Handwritten-Char-Recognition/report_ML_MNIST.pdf)
 ## Grid Search
 
 I used grid search to find the parameters that best fit the character recognition problem with the original MNIST dataset.
