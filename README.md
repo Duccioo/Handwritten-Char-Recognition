@@ -25,15 +25,15 @@ I used grid search to find the parameters that best fit the character recognitio
 
 Parameters used:
 
-- Learning rate
-- Number of Neurons in the hidden layer
-- Type of Activation Function for the hidden layer
-- Type of Activation Function for the output layer
--Loss type
-- Number of epochs
-- Data encoding
-- Batch size
-- Different Weight Initialization
+- Learning rate (0.1, 0.2)
+- Number of Neurons in the hidden layer `(100, 50)`
+- Type of Activation Function for the hidden layer `(sigmoid, relu)`
+- Type of Activation Function for the output layer `(sigmoid, relu)`
+- Loss type `("cross-entropy", "quadratic")`
+- Number of epochs `(10,20)`
+- Data encoding `("one_hot", "binary")`
+- Batch size `(1,32,256,60000)`
+- Different Weight Initialization `("Xavier", "random", 0,1, "He")`
 
 ## Dataset
 
