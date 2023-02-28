@@ -63,13 +63,7 @@ Start the training
   python Assignments/script/13_main.py
 ```
 
-## Running Tests
 
-To run tests, run the following command
-
-```bash
-  npm run test
-```
 
 ## Feedback
 
