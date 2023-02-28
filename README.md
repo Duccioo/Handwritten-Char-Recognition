@@ -65,6 +65,8 @@ Start the training
   python Assignments/script/13_main.py
 ```
 
+## Result
+Best model with 10 epoch,	100 hidden neurons,	0.2 learning rate,	cross-entropy loss,	binary encoding,	32 batch size, 	Xavier weight init,	ReLu hidden activation function,	Sigmoid output activation function, 98% accuracy in	49.75 seconds
 
 
 ## Feedback
