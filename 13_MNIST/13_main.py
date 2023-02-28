@@ -21,15 +21,15 @@ def main():
     input_size = 784
 
     # Definiamo i parametri da testare
-    learning_rates = (0.1, 0.2)
-    num_epochs = (10,)
+    learning_rates = (0.1, 0.2,0.05)
+    num_epochs = (10,20)
     hidden_sizes = (100, 50)
     loss_functions = ("cross-entropy", "quadratic")
     data_encodings = ("one_hot", "binary")
-    batch_sizes = (1)
-    weights_inits = ("Xavier", "random", 0)
+    batch_sizes = (1,32,256,60000)
+    weights_inits = ("Xavier", "random", 0,1,"He")
     hidden_activ_funcs = (sigmoid, relu)
-    last_activ_funcs = (sigmoid,)
+    last_activ_funcs = (sigmoid,relu)
 
     # Load the data
     X_train = load_data("data/train-images-idx3-ubyte.gz")
