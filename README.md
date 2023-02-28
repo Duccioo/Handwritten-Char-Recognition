@@ -44,13 +44,13 @@ The dataset was taken from the [@fgnt](https://github.com/fgnt/mnist) repo and i
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Duccioo/Handwritten-Char-Recognition.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Handwritten-Char-Recognition
 ```
 
 Install dependencies
