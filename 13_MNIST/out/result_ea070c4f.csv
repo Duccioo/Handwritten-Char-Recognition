@@ -1,0 +1,2 @@
+Number,Epoch, Hidden Neurons, Learning Rate, Loss Function, Data Encoding, Batch Size, Weights Init,Hidden Activation Function, Last Activation Function, Accuracy, Time
+0, 10, 100, 0.1,cross-entropy,one_hot,1,Xavier,Sigmoid,Sigmoid,0.976,294.31144523620605
