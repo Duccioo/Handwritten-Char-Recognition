@@ -1,8 +1,4 @@
-# Handwritten-Char-Recognition
-Assignment for Fundamentals Of Machine Learning Exam 2023
-
-# 13th Assignment: MNIST Problem Variation
-
+# Handwritten-Char-Recognition Assignment
 Project for the Fundamental of Machine Learning Exam 2023.
 
 The original text of the Assignment:
