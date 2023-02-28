@@ -25,7 +25,7 @@ I used grid search to find the parameters that best fit the character recognitio
 
 Parameters used:
 
-- Learning rate `(0.1, 0.2)`
+- Learning rate `(0.1, 0.2, 0.05)`
 - Number of Neurons in the hidden layer `(100, 50)`
 - Type of Activation Function for the hidden layer `(sigmoid, relu)`
 - Type of Activation Function for the output layer `(sigmoid, relu)`
