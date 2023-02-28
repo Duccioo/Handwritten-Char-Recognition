@@ -2,7 +2,12 @@
 Project for the Fundamental of Machine Learning Exam 2023.
 
 In this study, we trained a neural network model with **one hidden layer** on the MNIST dataset for
-handwritten digit recognition. 
+handwritten digit recognition. Through a grid search, we identify the optimal hyperparameters for the model, achieving an accuracy
+of 98% on the test set with a single hidden layer network. This study demonstrates the importance of
+selecting appropriate hyperparameters, particularly batch size, the loss type and the weights initialization,
+in achieving high accuracy and computational efficiency in training neural network models for handwritten
+digit recognition.
+
 
 The original text of the Assignment:
 
