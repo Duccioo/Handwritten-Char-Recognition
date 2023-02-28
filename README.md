@@ -1,5 +1,7 @@
 # Handwritten-Char-Recognition Assignment
 Project for the Fundamental of Machine Learning Exam 2023.
+In this study, we trained a neural network model with **one hidden layer** on the MNIST dataset for
+handwritten digit recognition. 
 
 The original text of the Assignment:
 
